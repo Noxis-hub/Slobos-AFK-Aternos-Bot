@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "911INITIATION-oR8D.aternos.me:18650",
+    "ip": "911INITIATION-oR8D.aternos.me",
     "port": 18650,
     "version": "",
     "try-creative": false
